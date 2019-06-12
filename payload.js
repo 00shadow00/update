@@ -1,7 +1,7 @@
 
 [
 	    {
-	  "Name":"WARNING",
+	  "Name":"SELECT PAYLOAD",
 	  "Info":"Do not torrent",
 	  "Payload":{
 		  "Proxy":{
@@ -69,41 +69,6 @@
 		  "Keep-Alive":true
 	  }
   },
-  
-    {
-	  "Name":"TNT-IG-PROMO-NOT-WORKING",
-	  "Info":"IG10 send to 4545",
-	   "Payload":{
-		  "Proxy":{
-			  "Custom":false,
-			  "Remote":"",
-			  "Port":""
-		  },
-		  "Url":"d0d6ce606ee664705ad2dc5acc62685c62ca6260605cdccae8",
-		  "Host":true,
-		  "Online-Host":true,
-		  "Forward-Host":true,
-		  "Reverse-Proxy":false,
-		  "Keep-Alive":true
-	  }
-  },
-    {
-	  "Name":"TNT-COC-PROMO-NOT-WORKING",
-	  "Info":"COC10 send to 4545",
-	   "Payload":{
-		  "Proxy":{
-			  "Custom":false,
-			  "Remote":"",
-			  "Port":""
-		  },
-		  "Url":"d0d6ce606ee664705ad2dc5acc62685c62ca6260605cdccae8",
-		  "Host":true,
-		  "Online-Host":true,
-		  "Forward-Host":true,
-		  "Reverse-Proxy":false,
-		  "Keep-Alive":true
-	  }
-  },
     {
 	  "Name":"TNT-FB-PROMO",
 	  "Info":"FB10 send to 4545",
@@ -130,29 +95,12 @@
 			  "Remote":"",
 			  "Port":""
 		  },
-		  "Url":"e6cac6eae4ca5cecd2c4cae45cc6deda",
+		  "Url":"869e9c9c8a86a840b6d0dee6e8bee0dee4e8ba80ecd2c4cae45cc6deda4090a8a8a05e625c62b6c6e4d8ccbab6c6e4d8ccbaa09ea6a840d0e8e8e0e6745e5eecd2c4cae45cc6deda5e40b6e0e4dee8dec6ded8bab6c6e4d8ccba90dee6e87440ecd2c4cae45cc6dedab6c6e4d8ccbab05a9edcd8d2dcca5a90dee6e87440ecd2c4cae45cc6dedab6c6e4d8ccba86dedcdccac6e8d2dedc744096cacae05a82d8d2eccab6c6e4d8ccba869e9c9c8a86a840b6d0dee6e8bee0dee4e8ba40b6e0e4dee8dec6ded8bab6c6e4d8ccbab6c6e4d8ccba",
 		  "Host":true,
 		  "Online-Host":false,
 		  "Forward-Host":false,
 		  "Reverse-Proxy":false,
 		  "Keep-Alive":false
-	  }
-  },
-    {
-	  "Name":"SUN-TU20-PROMO-NOT-WORKING",
-	  "Info":"Send TU20 to 247",
-	   "Payload":{
-		  "Proxy":{
-			  "Custom":false,
-			  "Remote":"",
-			  "Port":""
-		  },
-		  "Url":"eeeeee5ccededeced8caecd2c8cade5cc6deda",
-		  "Host":true,
-		  "Online-Host":true,
-		  "Forward-Host":true,
-		  "Reverse-Proxy":false,
-		  "Keep-Alive":true
 	  }
   }
 ]
